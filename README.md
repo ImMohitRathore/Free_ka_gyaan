@@ -10,6 +10,14 @@ If you like the project don't hesitate to giving stars  :star:
 
 # destop view
 
+![main1](https://user-images.githubusercontent.com/84665104/132124626-fa0e7260-c610-4aff-b9b0-71c4f864e238.png)
+
+## Qoutes
+![main2](https://user-images.githubusercontent.com/84665104/132124647-648dd609-39e7-4662-a746-1d80bcc3bf0c.png)
+
+## Google translater
+![main3](https://user-images.githubusercontent.com/84665104/132124679-a45c253e-99cb-49f0-8786-18e4c1249093.png)
+
 
 
 <!-- # Getting Started with Create React App
