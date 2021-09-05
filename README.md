@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+   # Free ka gyaan    :fire:
+
+# About
+this is a fun project made with 2 APIs
+
+In this project i'm alse use google translater to traslate  Quotes and advice into multiple languages like Hindi englsh etc .
+
+If you like the project don't hesitate to giving stars  :star:
+
+
+# destop view
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +82,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ -->
