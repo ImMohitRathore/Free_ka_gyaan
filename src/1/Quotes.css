@@ -1,0 +1,239 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+body{
+    background-color: #FFAA01;
+}
+
+
+
+
+
+.card3{
+margin-top: 8%;
+    margin-left: 10%;
+    width: 80%;
+    height: 400px;
+    color: transparent;
+   box-shadow: 0 0 5px rgba(0,0,0,0.5);
+
+   text-align: center;
+   
+   display: flex;
+   justify-content: center;
+ 
+}
+
+
+.icon{
+  font-size: 152px;
+  margin-top: -85px;
+  margin-left: 380px;
+ right: 20%;
+  position: absolute;
+  color: white;
+  width: 15px;
+  height: 60px;
+  text-shadow: -11px 9px 10px rgba(0, 0, 0, 0.54);
+
+ 
+
+}
+
+.icon2{
+    font-family: verdana, sans-serif;
+    color: #000000;
+    position:relative;
+    left: -40%;
+    bottom: 0%;
+    -webkit-transform: rotate(179deg);
+    -moz-transform: rotate(179deg);
+    -ms-transform: rotate(179deg);
+    -o-transform: rotate(179deg);
+    transform: rotate(179deg);
+    font-size: 152px;
+    width: 15px;
+    height: 1px;
+    text-shadow: 1px -6px 10px rgba(0, 0, 0, 0.7);
+   
+  margin-top: 465px;
+  margin-left: 100px;
+
+  
+    color: white;
+}
+
+.head{
+
+    margin-top: 10px;
+    text-align: center;
+    
+    text-shadow: 4px 4px 2px rgb(214, 168, 82);
+    font-size: 52px;
+    font-weight: bold;
+    color: white;
+
+font-family: 'Satisfy', cursive;
+}
+
+.Quotes{
+
+position: absolute;
+
+top: 35%;
+
+color: white;
+font-size: 30px;
+overflow: auto;
+font-family: 'Satisfy', cursive;
+width: 75%;
+height: 230px;
+
+overflow-y: auto;
+
+
+}
+
+.author{
+    position: absolute;
+  
+    right: 13%;
+   
+    margin-left: 52%;
+    margin-top: -5%;
+   color: white;
+ font-size: 20px;
+ width: 150px;
+
+
+
+  font-weight: bold;
+}
+
+.mainbtn{
+
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+
+.btn{
+    color: white;
+    background-color: #FFAA01;
+    width: 200px;
+    height: 40px;
+
+    cursor: pointer;
+    
+    
+
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    
+    border: solid white 1px;
+    font-size: 30px;
+ 
+ 
+}
+
+.git{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+
+}
+
+.git img{
+    width: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+*******************
+ */
+
+ @media screen and (max-width: 873px) {
+    .author{
+    
+    bottom: 15%;
+}
+.Quotes{
+  
+    top: 25%;
+}
+
+ }
+
+ @media screen and (max-width: 559px) {
+     .author{
+         font-size: 20px;
+         bottom: 17%;
+     }
+     .Quotes{
+         font-size: 25px;
+     }
+
+     .icon{
+        font-size: 100px;
+        top: 142px;
+     }
+
+     .icon2{
+         font-size: 100px;
+         bottom: 22px;
+         left: -45%;
+
+     }
+
+     .btn{
+         width: 150px;
+         height: 40px;
+         font-size: 20px;
+
+     }
+
+
+
+ }
+
+ @media screen and (max-width: 419px) {
+     .icon{
+         right: 25%;
+     }
+     .Quotes{
+         top: 18%;
+         font-size: 22px;
+         
+     }
+     .author{
+         bottom: 29%;
+         font-size: 18px;
+     }
+    
+
+     
+ }
+
+
+ 
+  
